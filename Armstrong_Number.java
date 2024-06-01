@@ -5,8 +5,8 @@ import java.util.*;
 import java.io.*;
 class Armstrong_Number{
     public static void main(String args[]){
-        int num=153;
-        System.out.println(num/10);
+        int nums=153;
+        System.out.println(nums/10);
         15*
     }
 }
