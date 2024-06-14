@@ -22,4 +22,4 @@ public class Buble_Sort{
         System.out.print(arr[i]+" ");
     }
   }
-} 
+}
